@@ -11,3 +11,14 @@ e.target.elements.inputName.value.trim();
 this.setState({val});
 Add handler to the form tag. and use name='inputName' in the input tag
 use this: this.setState(this.getInitialState());
+
+* Things to check out
+Immutable.js
+Redux
+Relay (Optimistic update - all or nothing. Defines whole stack)
+GraphQL
+Rx.js (do something everytime user double-clicked but only 300ms in between)
+Webpack
+ES2015 + Babel
+Egghead.io
+FreeCodeCamp
